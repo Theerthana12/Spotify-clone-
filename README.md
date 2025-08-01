@@ -5,7 +5,7 @@ This is a **Spotify clone frontend** project built using **HTML, CSS, and JavaSc
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+  
 
 ##  Features
 
